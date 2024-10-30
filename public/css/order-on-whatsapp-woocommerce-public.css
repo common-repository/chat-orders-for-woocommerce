@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+a.wh_ancor_tag {
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+.whatsapp_button {
+  background-color: #25d366 !important;
+  border: none;
+  outline: none;
+  color: #ffff !important;
+  font-weight: 600;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none !important;
+  margin: 20px 0px;
+  padding: 10px 5px !important;
+  cursor: pointer !important;
+}
+.whatsapp_button:focus {
+  outline: none !important;
+}
+.whatsapp_button img {
+  width: 25px;
+  margin: 0px 5px;
+}

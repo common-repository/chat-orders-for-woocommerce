@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.whatsapp_order_form {
+  width: 40%;
+  margin-top: 40px;
+}
+.form_control {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 35px 0px;
+}
+.form_control label {
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.small_text_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 63%;
+}
